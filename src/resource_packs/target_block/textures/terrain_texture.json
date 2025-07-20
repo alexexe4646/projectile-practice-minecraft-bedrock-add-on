@@ -1,0 +1,29 @@
+{
+  "resource_pack_name": "target_block",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+   "texture_data": { 
+    "target_block_1": { 
+      "textures": "textures/blocks/target_block_1" 
+    }, 
+    "target_block_2": { 
+      "textures": "textures/blocks/target_block_2" 
+    }, 
+    "target_block_3": { 
+      "textures": "textures/blocks/target_block_3" 
+    }, 
+    "target_block_4": { 
+      "textures": "textures/blocks/target_block_4" 
+    }, 
+    "target_block_5": { 
+      "textures": "textures/blocks/target_block_5" 
+    }, 
+    "target_block_6": { 
+      "textures": "textures/blocks/target_block_6" 
+    }, 
+    "target_block_red": { 
+      "textures": "textures/blocks/target_block_red" 
+    } 
+  }
+}

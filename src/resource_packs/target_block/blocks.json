@@ -1,0 +1,15 @@
+{
+  "format_version": "1.21.30",
+  "custom:target_block": {
+    "textures": { 
+      "up": "target_block_1", 
+      "down": "target_block_6", 
+      "north": "target_block_3", 
+      "south": "target_block_4", 
+      "east": "target_block_2", 
+      "west": "target_block_5" 
+    }, 
+    "carried_textures": "target_block_red", 
+    "sound": "wood"
+  }
+}
